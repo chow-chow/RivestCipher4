@@ -1,5 +1,6 @@
 # RC4 en python
 # Cruz Rangel Leonardo Said
+# Criptografia
 
 # Leemos de stdin y colocamos cada linea en un arreglo
 import fileinput
